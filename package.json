@@ -1,0 +1,19 @@
+{
+  "name": "task0",
+  "version": "1.0.0",
+  "description": "este es el primer trabajo de programacion dos y servidor de la app que realizare durante el semestre",
+  "main": "app.js",
+  "scripts": {
+      "start": "nodemon app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+  "author": "Javier Pacheco",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
